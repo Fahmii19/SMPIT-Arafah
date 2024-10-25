@@ -1,0 +1,236 @@
+/* Write your global styles here, in PostCSS syntax */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* SF PRO */
+/* SF PRO Regular */
+@font-face {
+  font-family: "Font SF-Pro-Text-Regular";
+  src: url("https://www.joglopro.com/bucket/soaraja/image/joglopro/font/SFPRODISPLAYMEDIUM.OTF")
+    format("opentype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* SF PRO Bold */
+@font-face {
+  font-family: "Font SF-Pro-Text-Bold";
+  src: url("https://www.joglopro.com/bucket/soaraja/image/joglopro/font/3/SF-Pro-Display-Black.otf")
+    format("opentype");
+  font-style: normal;
+}
+
+/* SF PRO Bold Italic */
+@font-face {
+  font-family: "Font SF-Pro-Text-Bold-Italic";
+  src: url("https://www.joglopro.com/bucket/soaraja/image/joglopro/font/SFPRODISPLAYBLACKITALIC.OTF")
+    format("opentype");
+  font-style: italic;
+}
+
+.active_btn_tag {
+  @apply bg-[#69B3E7] text-white border-white;
+}
+
+.active_btn_peta {
+  @apply bg-[#69B3E7] text-white;
+}
+
+.mapboxgl-ctrl-logo,
+.mapboxgl-ctrl-attrib {
+  display: none !important;
+}
+
+/* Navigator MapboxGL */
+.mapboxgl-ctrl-top-right {
+  right: 0vh !important;
+  top: 47.5vh !important;
+}
+
+.mapboxgl-ctrl-group:not(:empty) {
+  box-shadow: none !important;
+}
+
+.custom-img-slick {
+  width: 1.1vh !important;
+  height: 1.4vh !important;
+}
+
+.img-wrapper {
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  padding: 5px;
+  background-color: rgb(241 245 249);
+  opacity: 0.9;
+}
+
+.mapboxgl-ctrl-group {
+  display: none !important;
+  visibility: hidden;
+}
+
+.mapboxgl-ctrl-geolocate {
+  visibility: hidden !important;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.hide-scrollbar {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+.active_btn_peta {
+  @apply bg-[#0394F7] text-white;
+}
+
+.bg_aktif_detail {
+  @apply bg-slate-200 rounded-lg font-bold;
+}
+
+.deskripsi_postingan_new {
+  @apply h-[71.5vh];
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: calc(100% - 3rem);
+  height: 15px;
+  border-radius: 5px;
+  background: #d3d3d3;
+  outline: none;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #3b82f6;
+  cursor: pointer;
+  border: none;
+}
+
+.slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #3b82f6;
+  cursor: pointer;
+  border: none;
+}
+
+/* Detail Card */
+#ControlRangeSimulasi1 {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  cursor: pointer;
+  outline: none;
+  border-radius: 15px;
+  height: 4px;
+}
+
+#ControlRangeSimulasi1::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 13px;
+  width: 13px;
+  background-color: #0394f7;
+  border-radius: 50%;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+
+#ControlRangeSimulasi1::-moz-range-thumb {
+  height: 13px;
+  width: 13px;
+  background-color: #0394f7;
+  border-radius: 50%;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+
+#ControlRangeSimulasi2 {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  cursor: pointer;
+  outline: none;
+  border-radius: 15px;
+  height: 4px;
+}
+
+#ControlRangeSimulasi2::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 13px;
+  width: 13px;
+  background-color: #0394f7;
+  border-radius: 50%;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+
+#ControlRangeSimulasi2::-moz-range-thumb {
+  height: 13px;
+  width: 13px;
+  background-color: #0394f7;
+  border-radius: 50%;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+
+#ControlRangeSimulasi3 {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 100%;
+  cursor: pointer;
+  outline: none;
+  border-radius: 15px;
+  height: 4px;
+}
+
+#ControlRangeSimulasi3::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 13px;
+  width: 13px;
+  background-color: #0394f7;
+  border-radius: 50%;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+
+#ControlRangeSimulasi3::-moz-range-thumb {
+  height: 13px;
+  width: 13px;
+  background-color: #0394f7;
+  border-radius: 50%;
+  border: none;
+  transition: 0.2s ease-in-out;
+}
+
+/* CUSTOMM */
+
+@layer utilities {
+  input[type="number"]::-webkit-outer-spin-button,
+  input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+
+  input[type="number"] {
+    -moz-appearance: textfield;
+  }
+}
+
+.hapus_focus_checkbox:focus {
+  outline: none !important;
+  box-shadow: none !important;
+}

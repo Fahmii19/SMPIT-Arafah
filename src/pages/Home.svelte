@@ -137,7 +137,7 @@
 
   <!-- Chairman's Welcome Section -->
   <section
-    class="py-16 px-4 md:px-16 lg:px-32 bg-gray-100 flex flex-col lg:flex-row items-center lg:items-start gap-8 lg:gap-16"
+    class="py-14 px-4 md:px-16 lg:px-32 bg-gray-100 flex flex-col lg:flex-row items-center lg:items-start gap-8 lg:gap-16"
   >
     <!-- Profile Image with Caption -->
     <div class="w-full lg:w-1/3 text-center lg:text-left">
@@ -172,38 +172,38 @@
         class="mt-8 flex justify-around md:justify-start md:space-x-12 text-center text-gray-800"
       >
         <div class="flex items-center space-x-2">
-          <div class="flex flex-col items-center lg:items-start">
+          <div class="flex flex-col items-center text-center">
             <h4 class="text-4xl font-bold">295</h4>
-            <p class="text-sm md:text-base">Peserta Didik</p>
+            <p class="text-sm font-semibold md:text-base">Peserta Didik</p>
           </div>
           <!-- Orange Divider and Plus Symbol -->
-          <div class="flex flex-col items-center border border-red-500">
-            <span class="w-[3px] h-4 bg-orange-500"></span>
-            <span class="text-orange-500 text-lg font-bold">+</span>
+          <div class="flex flex-row items-center -mt-3">
+            <span class="text-black text-lg font-bold">+</span>
+            <span class="w-[2.5px] h-4 bg-orange-500 -mt-8 ml-1"></span>
           </div>
         </div>
 
         <div class="flex items-center space-x-2">
-          <div class="flex flex-col items-center lg:items-start">
+          <div class="flex flex-col items-center text-center">
             <h4 class="text-4xl font-bold">29</h4>
-            <p class="text-sm md:text-base">Guru Tendik</p>
+            <p class="text-sm font-semibold md:text-base">Guru Tendik</p>
           </div>
           <!-- Orange Divider and Plus Symbol -->
-          <div class="flex flex-col items-center border border-red-500">
-            <span class="w-[3px] h-4 bg-orange-500"></span>
-            <span class="text-orange-500 text-lg font-bold">+</span>
+          <div class="flex flex-row items-center -mt-3">
+            <span class="text-black text-lg font-bold">+</span>
+            <span class="w-[2.5px] h-4 bg-orange-500 -mt-8 ml-1"></span>
           </div>
         </div>
 
         <div class="flex items-center space-x-2">
-          <div class="flex flex-col items-center lg:items-start">
+          <div class="flex flex-col items-center text-center">
             <h4 class="text-4xl font-bold">52</h4>
-            <p class="text-sm md:text-base">Kelas</p>
+            <p class="text-sm font-semibold md:text-base">Kelas</p>
           </div>
           <!-- Orange Divider and Plus Symbol -->
-          <div class="flex flex-col items-center border border-red-500">
-            <span class="w-[3px] h-4 bg-orange-500"></span>
-            <span class="text-orange-500 text-lg font-bold">+</span>
+          <div class="flex flex-row items-center -mt-3">
+            <span class="text-black text-lg font-bold">+</span>
+            <span class="w-[2.5px] h-4 bg-orange-500 -mt-8 ml-1"></span>
           </div>
         </div>
       </div>
@@ -211,7 +211,7 @@
   </section>
 
   <!-- Extracurricular Section -->
-  <section class="py-16 px-4 md:px-16 lg:px-32 bg-white text-center">
+  <section class="py-12 px-4 md:px-16 lg:px-32 bg-white text-center">
     <!-- Section Title and Description -->
     <h2 class="text-2xl font-bold text-gray-800 mb-4">Ekstrakulikuler</h2>
     <p
@@ -235,7 +235,7 @@
         <p
           class="absolute bottom-0 left-0 w-full bg-black bg-opacity-50 text-white py-2 text-sm font-semibold"
         >
-          PRAMUKAa
+          PRAMUKA
         </p>
       </div>
       <div class="relative overflow-hidden rounded-lg shadow-lg">
@@ -303,14 +303,16 @@
 
     <!-- Button -->
     <button
-      class="mt-8 px-6 py-2 border border-gray-500 text-gray-700 rounded-full hover:bg-gray-100 transition duration-200"
+      class="mt-10 px-4 py-2 bg-blue-500 hover:bg-blue-600 rounded-full text-white text-sm md:text-base"
+      >Selengkapnya</button
     >
-      Selengkapnya
-    </button>
   </section>
 
   <!-- Footer Section -->
-  <footer class="py-16 px-4 md:px-16 lg:px-32 bg-blue-800 text-white">
+  <footer
+    style="background-image: url('/assets/bg_footer.png');"
+    class=" py-16 px-4 md:px-16 lg:px-32 text-white"
+  >
     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
       <!-- Location Map -->
       <div>

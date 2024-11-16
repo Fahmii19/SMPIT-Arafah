@@ -2,7 +2,11 @@
 module.exports = {
   content: ["./src/**/*.svelte"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        "footer-bg": "url('/assets/bg/bg-footer.jpg')",
+      },
+    },
   },
   plugins: [],
 };

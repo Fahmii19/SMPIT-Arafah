@@ -32,7 +32,7 @@
         <!-- Two small items -->
         <div class="relative overflow-hidden rounded-2xl shadow-lg group">
           <img
-            src="https://images.unsplash.com/photo-1493770348161-369560ae357d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw2fHxmb29kfGVufDB8MHx8fDE3MjEwNDI2MTR8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            src="./assets/pramuka.jpg"
             alt="Food"
             class="w-full h-48 object-cover"
           />
@@ -40,13 +40,13 @@
             class="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
           >
             <div class="absolute bottom-0 left-0 right-0 p-4">
-              <h4 class="text-xl font-bold text-white">Culinary Delights</h4>
+              <h4 class="text-xl font-bold text-white">Pramuka</h4>
             </div>
           </div>
         </div>
         <div class="relative overflow-hidden rounded-2xl shadow-lg group">
           <img
-            src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHx0ZWNobm9sb2d5fGVufDB8MHx8fDE3MjEwNDI2Mjh8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            src="./assets/senilukis.jpg"
             alt="Technology"
             class="w-full h-48 object-cover"
           />
@@ -54,7 +54,7 @@
             class="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
           >
             <div class="absolute bottom-0 left-0 right-0 p-4">
-              <h4 class="text-xl font-bold text-white">Tech Innovations</h4>
+              <h4 class="text-xl font-bold text-white">Seni Lukis</h4>
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@
         <!-- Three medium items -->
         <div class="relative overflow-hidden rounded-2xl shadow-lg group">
           <img
-            src="https://images.unsplash.com/photo-1503220317375-aaad61436b1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHx0cmF2ZWx8ZW58MHwwfHx8MTcyMTA0MjY0MXww&ixlib=rb-4.0.3&q=80&w=1080"
+            src="./assets/tari.jpg"
             alt="Travel"
             class="w-full h-48 object-cover"
           />
@@ -70,13 +70,13 @@
             class="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
           >
             <div class="absolute bottom-0 left-0 right-0 p-4">
-              <h4 class="text-xl font-bold text-white">Travel Adventures</h4>
+              <h4 class="text-xl font-bold text-white">Tari</h4>
             </div>
           </div>
         </div>
         <div class="relative overflow-hidden rounded-2xl shadow-lg group">
           <img
-            src="https://images.unsplash.com/photo-1513364776144-60967b0f800f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxfHxhcnR8ZW58MHwwfHx8MTcyMTA0MjY5Nnww&ixlib=rb-4.0.3&q=80&w=1080"
+            src="./assets/tenismeja.jpg"
             alt="Art"
             class="w-full h-48 object-cover"
           />
@@ -84,7 +84,7 @@
             class="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
           >
             <div class="absolute bottom-0 left-0 right-0 p-4">
-              <h4 class="text-xl font-bold text-white">Artistic Expressions</h4>
+              <h4 class="text-xl font-bold text-white">Tenis Meja</h4>
             </div>
           </div>
         </div>
@@ -92,7 +92,7 @@
         <!-- bottom cards -->
         <div class="relative overflow-hidden rounded-2xl shadow-lg group">
           <img
-            src="https://images.unsplash.com/photo-1530549387789-4c1017266635?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwyfHxzd2ltbWluZ3xlbnwwfDB8fHwxNzIxMDQzMjkxfDA&ixlib=rb-4.0.3&q=80&w=1080"
+            src="./assets/multimedia_club.jpg"
             alt="Sport"
             class="w-full h-48 object-cover"
           />
@@ -100,13 +100,13 @@
             class="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
           >
             <div class="absolute bottom-0 left-0 right-0 p-4">
-              <h4 class="text-xl font-bold text-white">Swimming</h4>
+              <h4 class="text-xl font-bold text-white">Multimedia Club</h4>
             </div>
           </div>
         </div>
         <div class="relative overflow-hidden rounded-2xl shadow-lg group">
           <img
-            src="https://images.unsplash.com/photo-1611195974226-a6a9be9dd763?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxMnx8Y2hlc3N8ZW58MHwwfHx8MTcyMTA0MzI0Nnww&ixlib=rb-4.0.3&q=80&w=1080"
+            src="./assets/english_club.jpg"
             alt="Sport"
             class="w-full h-48 object-cover"
           />
@@ -114,13 +114,13 @@
             class="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
           >
             <div class="absolute bottom-0 left-0 right-0 p-4">
-              <h4 class="text-xl font-bold text-white">Chess</h4>
+              <h4 class="text-xl font-bold text-white">English Club</h4>
             </div>
           </div>
         </div>
         <div class="relative overflow-hidden rounded-2xl shadow-lg group">
           <img
-            src="https://images.unsplash.com/photo-1553778263-73a83bab9b0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw1fHxmb290YmFsbHxlbnwwfDB8fHwxNzIxMDQzMjExfDA&ixlib=rb-4.0.3&q=80&w=1080"
+            src="./assets/taekwondo.jpg"
             alt="Sport"
             class="w-full h-48 object-cover"
           />
@@ -128,13 +128,13 @@
             class="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
           >
             <div class="absolute bottom-0 left-0 right-0 p-4">
-              <h4 class="text-xl font-bold text-white">Football</h4>
+              <h4 class="text-xl font-bold text-white">Taekwondo</h4>
             </div>
           </div>
         </div>
         <div class="relative overflow-hidden rounded-2xl shadow-lg group">
           <img
-            src="https://images.unsplash.com/photo-1624526267942-ab0ff8a3e972?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHw3fHxjcmlja2V0fGVufDB8MHx8fDE3MjEwNDMxNTh8MA&ixlib=rb-4.0.3&q=80&w=1080"
+            src="./assets/hafidz.jpg"
             alt="Sport"
             class="w-full h-48 object-cover"
           />
@@ -142,7 +142,7 @@
             class="absolute inset-0 bg-black bg-opacity-60 opacity-0 group-hover:opacity-100 transition-opacity duration-300"
           >
             <div class="absolute bottom-0 left-0 right-0 p-4">
-              <h4 class="text-xl font-bold text-white">Cricket</h4>
+              <h4 class="text-xl font-bold text-white">Tahfidz</h4>
             </div>
           </div>
         </div>

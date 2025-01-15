@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "flowbite": "^2.5.2",
-    "sirv-cli": "^2.0.0"
+    "sirv-cli": "^2.0.0",
+    "svelte-routing": "^2.13.0"
   }
 }

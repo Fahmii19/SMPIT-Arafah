@@ -7,7 +7,7 @@
   import Home from "./pages/Home.svelte";
   import Galeri from "./pages/Galeri.svelte";
   import Informasi from "./pages/Informasi.svelte";
-  import Kegiatan from "./pages/Kegiatan.svelte";
+  import Ekstrakurikuler from "./pages/Ekstrakurikuler.svelte";
   import TenagaPendidik from "./pages/TenagaPendidik.svelte";
   import Kontak from "./pages/Kontak.svelte";
   import Header from "./components/Header.svelte";
@@ -30,7 +30,7 @@
     <Route path="/" component={Home} />
     <Route path="/galeri" component={Galeri} />
     <Route path="/informasi" component={Informasi} />
-    <Route path="/kegiatan" component={Kegiatan} />
+    <Route path="/ekstrakurikuler" component={Ekstrakurikuler} />
     <Route path="/tenaga-pendidik" component={TenagaPendidik} />
     <Route path="/kontak" component={Kontak} />
     <Footer />

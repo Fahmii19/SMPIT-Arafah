@@ -10,7 +10,7 @@
     { name: "Beranda", path: "/" },
     { name: "Galeri", path: "/galeri" },
     { name: "Informasi", path: "/informasi" },
-    { name: "Kegiatan", path: "/kegiatan" },
+    { name: "Ekstrakurikuler", path: "/ekstrakurikuler" },
     { name: "Tenaga Pendidik", path: "/tenaga-pendidik" },
     { name: "Kontak", path: "/kontak" },
   ];

@@ -3,7 +3,7 @@
   import Home from "../pages/Home.svelte";
   import Galeri from "../pages/Galeri.svelte";
   import Informasi from "../pages/Informasi.svelte";
-  import Kegiatan from "../pages/Kegiatan.svelte";
+  import Kegiatan from "../pages/Ekstrakurikuler.svelte";
   import TenagaPendidik from "../pages/TenagaPendidik.svelte";
   import Kontak from "../pages/Kontak.svelte";
   import Footer from "../components/Footer.svelte";

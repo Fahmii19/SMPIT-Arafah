@@ -31,6 +31,7 @@
 
 <div>
   <!-- Navbar -->
+
   <nav class="bg-white shadow-md py-4">
     <div class="container mx-auto flex items-center justify-between px-4">
       <!-- Logo dan Judul -->

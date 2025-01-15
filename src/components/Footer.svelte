@@ -8,8 +8,9 @@
       <!-- Location Map -->
       <div>
         <h3 class="text-lg font-bold mb-4">Denah Lokasi</h3>
+
         <iframe
-          src="https://www.google.com/maps/embed?pb=..."
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.9289763473!2d106.88165257409896!3d-6.403152162623025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69eb145b70f643%3A0xd6410610250ec2cb!2sSMP%20Islam%20Terpadu%20Arafah%20Depok!5e0!3m2!1sid!2sid!4v1736946910532!5m2!1sid!2sid"
           width="100%"
           height="200"
           style="border:0;"

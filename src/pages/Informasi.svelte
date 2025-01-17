@@ -3,159 +3,46 @@
     <div class="container max-w-xl p-6 mx-auto space-y-12 lg:px-8 lg:max-w-7xl">
       <div>
         <h2 class="text-3xl font-bold text-center sm:text-5xl">KURIKULUM</h2>
-        <p class="max-w-3xl mx-auto mt-4 text-xl text-center">
-          SMPIT Arafah menerapkan Kurikulum Islam Terpadu (IT) meliputi :
+        <p></p>
+        <p class="max-w-4xl mx-auto mt-6 text-md text-center">
+          Dengan menerapkan metode pembelajaran yang Aktif, Inovatif, Kreatif,
+          Efektif, dan Menyenangkan (PAIKEM), proses pembelajaran di SMPIT
+          Arafah dirancang untuk menciptakan kenyamanan belajar bagi siswa
+          sekaligus memastikan pembelajaran berjalan secara terarah. Selain itu,
+          SMPIT Arafah juga mengimplementasikan Kurikulum Islam Terpadu (IT)
+          yang mencakup:
         </p>
       </div>
       <div class="grid lg:gap-8 lg:grid-cols-2 lg:items-center">
         <div>
-          <div class="mt-4 space-y-12">
+          <div class="space-y-12 -mt-10">
             <div class="flex">
               <div class="flex-shrink-0">
                 <div
                   class="flex items-center justify-center w-12 h-12 rounded-md"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    class="lucide lucide-rocket"
-                  >
-                    <path
-                      d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09z"
-                    >
-                    </path>
-                    <path
-                      d="m12 15-3-3a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.35 22.35 0 0 1-4 2z"
-                    >
-                    </path>
-                    <path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 0 5 0"></path>
-                    <path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"></path>
-                  </svg>
-                </div>
+                ></div>
               </div>
               <div class="ml-4">
-                <h4 class="text-lg font-medium leadi">
-                  Advanced Learning Algorithms
-                </h4>
-                <p class="mt-2">
-                  Discover our improved learning algorithms that adapt to your
-                  preferences and provide even more personalized learning
-                  suggestions.
+                <p class=" text-md font-medium">
+                  1. Kegiatan Sholat Dhuha, Dzuhur dan Ashar Berjamaah
                 </p>
-              </div>
-            </div>
-            <div class="flex">
-              <div class="flex-shrink-0">
-                <div
-                  class="flex items-center justify-center w-12 h-12 rounded-md"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    class="lucide lucide-bookmark-plus"
-                  >
-                    <path
-                      d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"
-                    ></path>
-                    <line x1="12" x2="12" y1="7" y2="13"></line>
-                    <line x1="15" x2="9" y1="10" y2="10"></line>
-                  </svg>
-                </div>
-              </div>
-              <div class="ml-4">
-                <h4 class="text-lg font-medium leadi">
-                  Interactive Learning Resources
-                </h4>
-                <p class="mt-2">
-                  Access an extensive library of interactive resources that make
-                  your learning journey engaging and interactive.
+                <p class="mt-2 text-md font-medium">
+                  2. Asmaul Husna, Zikir Al-Ma’tsurot
                 </p>
-              </div>
-            </div>
-            <div class="flex">
-              <div class="flex-shrink-0">
-                <div
-                  class="flex items-center justify-center w-12 h-12 rounded-md"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    class="lucide lucide-video"
-                  >
-                    <path d="m22 8-6 4 6 4V8Z"></path>
-                    <rect width="14" height="12" x="2" y="6" rx="2" ry="2"
-                    ></rect>
-                  </svg>
-                </div>
-              </div>
-              <div class="ml-4">
-                <h4 class="text-lg font-medium leadi">
-                  Enhanced Video Streaming
-                </h4>
-                <p class="mt-2">
-                  Experience seamless video integration with enhanced streaming
-                  capabilities, providing a better and more uninterrupted
-                  learning experience.
+                <p class="mt-2 text-md font-medium">3. Muhadhoroh</p>
+                <p class="mt-2 text-md font-medium">
+                  4. Murojaah, Halaqoh, Tahsin/Tahfidz Al-Qur’an
                 </p>
-              </div>
-            </div>
-            <div class="flex">
-              <div class="flex-shrink-0">
-                <div
-                  class="flex items-center justify-center w-12 h-12 rounded-md"
-                >
-                  <svg
-                    xmlns="http://www.w3.org/2000/svg"
-                    width="24"
-                    height="24"
-                    viewBox="0 0 24 24"
-                    fill="none"
-                    stroke="currentColor"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                    class="lucide lucide-file-question"
-                  >
-                    <path
-                      d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"
-                    ></path>
-                    <path
-                      d="M10 10.3c.2-.4.5-.8.9-1a2.1 2.1 0 0 1 2.6.4c.3.4.5.8.5 1.3 0 1.3-2 2-2 2"
-                    ></path>
-                    <path d="M12 17h.01"></path>
-                  </svg>
-                </div>
-              </div>
-              <div class="ml-4">
-                <h4 class="text-lg font-medium leadi">
-                  Advanced Quiz Generation
-                </h4>
-                <p class="mt-2">
-                  Take your knowledge testing to the next level with advanced
-                  quiz generation, providing more customization options for your
-                  quizzes.
+                <p class="mt-2 text-md font-medium">5. Kultum</p>
+                <p class="mt-2 text-md font-medium">6. Liqo</p>
+                <p class="mt-2 text-md font-medium">
+                  7. Sarapan (Saran dan Harapan)
                 </p>
+                <p class="mt-2 text-md font-medium">8. Mabit dan Mukhoyyam</p>
+                <p class="mt-2 text-md font-medium">9. Basic Religion</p>
+                <p class="mt-2 text-md font-medium">10. Entrepeneur</p>
+                <p class="mt-2 text-md font-medium">11. Minat dan Bakat</p>
+                <div class="text-md mt-2 indent-12"></div>
               </div>
             </div>
           </div>
@@ -164,8 +51,7 @@
           <img
             width="600"
             height="600"
-            src="https://images.unsplash.com/photo-1516542076529-1ea3854896f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxNHx8Y29tcHV0ZXJ8ZW58MHwwfHx8MTY5OTE3MDk1N3ww&ixlib=rb-4.0.3&q=80&w=1080"
-            class="mx-auto rounded-lg shadow-lg dark-bg-gray-500"
+            src="./assets/galeri/galeri5.jpg"
             style="color:transparent"
           />
         </div>
@@ -176,33 +62,21 @@
   <div class="max-w-screen-xl mx-auto py-8 px-4 lg:py-16 lg:px-6">
     <div class="text-center mb-10">
       <h2 class="text-4xl tracking-tight font-bold text-primary-800">
-        Highlighted Features
+        Landasan dan Cita-Cita SMPIT Arafah
       </h2>
     </div>
+    <!--  -->
 
     <div class="flex flex-col md:flex-row">
-      <!-- can help image -->
-      <div class="mr-0 md:mr-8 mb-6 md:mb-0">
-        <img
-          class="w-1/2 md:w-full mx-auto"
-          src="https://placeholder.pics/svg/400"
-          alt="can_help_banner"
-        />
-      </div>
-      <!-- end can help image -->
-
       <div class="flex-1 flex flex-col sm:flex-row flex-wrap -mb-4 -mx-2">
         <div class="w-full sm:w-1/2 mb-4 px-2">
           <div
             class="h-full py-4 px-6 border border-green-500 border-t-0 border-l-0 rounded-br-xl"
           >
-            <h3 class="text-2xl font-bold text-md mb-6">
-              Dynamic Personalization:
-            </h3>
-            <p class="text-sm">
-              Our platform leverages user data and behavior to provide a highly
-              personalized experience, with dynamic content and product
-              recommendations that change in real-time.
+            <h3 class="text-2xl font-bold text-md mb-6">VISI</h3>
+            <p class="text-md">
+              Menjadikan sekolah unggul dalam pembelajaran. Religius dalam
+              pendidikan. Kreatif dalam kegiatan
             </p>
           </div>
         </div>
@@ -210,44 +84,144 @@
           <div
             class="h-full py-4 px-6 border border-green-500 border-t-0 border-l-0 rounded-br-xl"
           >
-            <h3 class="text-2xl font-bold text-md mb-6">
-              Mobile-Optimized Interface
-            </h3>
-            <p class="text-sm">
-              Our website is designed with a mobile-first approach, offering a
-              seamless browsing experience across all devices, including
-              smartphones and tablets.
-            </p>
-          </div>
-        </div>
+            <h3 class="text-2xl font-bold text-md mb-6">MISI</h3>
+            <ul class="space-y-3 font-medium">
+              <li class="flex items-start lg:col-span-1">
+                <div class="flex-shrink-0">
+                  <svg
+                    class="w-5 h-5 text-indigo-600"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    ></path>
+                  </svg>
+                </div>
+                <p class="ml-3 leading-5 text-gray-600">
+                  Membangun sekolah berbasis ICT
+                </p>
+              </li>
+              <li class="flex items-start lg:col-span-1">
+                <div class="flex-shrink-0">
+                  <svg
+                    class="w-5 h-5 text-indigo-600"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    ></path>
+                  </svg>
+                </div>
+                <p class="ml-3 leading-5 text-gray-600">
+                  Meningkatkan peran serta dukungan masyarakat
+                </p>
+              </li>
+              <li class="flex items-start lg:col-span-1">
+                <div class="flex-shrink-0">
+                  <svg
+                    class="w-5 h-5 text-indigo-600"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    ></path>
+                  </svg>
+                </div>
+                <p class="ml-3 leading-5 text-gray-600">
+                  Menyeleggarakan pendidikan yang religious islami
+                </p>
+              </li>
+              <li class="flex items-start lg:col-span-1">
+                <div class="flex-shrink-0">
+                  <svg
+                    class="w-5 h-5 text-indigo-600"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    ></path>
+                  </svg>
+                </div>
+                <p class="ml-3 leading-5 text-gray-600">
+                  Menerapkan strategi pebelajaran aktif, inovatif, efektif, dan
+                  menyenangkan
+                </p>
+              </li>
 
+              <li class="flex items-start lg:col-span-1">
+                <div class="flex-shrink-0">
+                  <svg
+                    class="w-5 h-5 text-indigo-600"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    ></path>
+                  </svg>
+                </div>
+                <p class="ml-3 leading-5 text-gray-600">
+                  Mewujudkan kegiata siswa yang kreatif melali ekskul dan
+                  aktifitas lain yang terprogram untuk pencapaian prestasi siswa
+                </p>
+              </li>
+              <li class="flex items-start lg:col-span-1">
+                <div class="flex-shrink-0">
+                  <svg
+                    class="w-5 h-5 text-indigo-600"
+                    fill="currentColor"
+                    viewBox="0 0 20 20"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z"
+                      clip-rule="evenodd"
+                    ></path>
+                  </svg>
+                </div>
+                <p class="ml-3 leading-5 text-gray-600">
+                  Meningkatkan kemampuan dan kompetensi SDM yang professional
+                  memiliki Etos:* kerja kita : Budaya mutu dan prestasi sekolah
+                </p>
+              </li>
+            </ul>
+          </div>
+        </div>
         <div class="w-full sm:w-1/2 mb-4 px-2">
           <div
             class="h-full py-4 px-6 border border-green-500 border-t-0 border-l-0 rounded-br-xl"
           >
-            <h3 class="text-2xl font-bold text-md mb-6">
-              24/7 Customer Support
-            </h3>
-            <p class="text-sm">
-              ur U.S.-based customer support team is available around the clock
-              to answer any questions, resolve any issues, and provide helpful
-              solutions. Whether it's through email, phone, or live chat, we're
-              always here to support you.
+            <h3 class="text-2xl font-bold text-md mb-6">Tujuan</h3>
+            <p class="text-md">
+              Peserta didik memiliki : wawasan pengetahuan luas, paham
+              berorganisasi, berakhlakul karimah, beribadah dengan benar, cinta
+              dan paham Al-Quran, paham teknologi dan entrepreneur. Bermanfaat
+              bagi diri dan orang lain.
             </p>
           </div>
         </div>
-
         <div class="w-full sm:w-1/2 mb-4 px-2">
           <div
             class="h-full py-4 px-6 border border-green-500 border-t-0 border-l-0 rounded-br-xl"
           >
-            <h3 class="text-2xl font-bold text-md mb-6">
-              Secure Payment Processing
-            </h3>
-            <p class="text-sm">
-              We use cutting-edge security measures to protect our customers'
-              sensitive information and ensure the safety of all transactions
-              made on our site.
+            <h3 class="text-2xl font-bold text-md mb-6">Moto</h3>
+            <p class="text-md">
+              PROAKTIF, Pintar, Organisatoris, Akhlakulkarima, Tahfidh,
+              Enterpreneur
             </p>
           </div>
         </div>
@@ -255,212 +229,141 @@
     </div>
   </div>
   <!--  -->
-  <div class="flex flex-col md:grid md:grid-cols-3 gap-3">
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?hanging-planters"
-        alt="Hanging Planters"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
-      >
-        Hanging Planters
-      </p>
+  <!--  -->
+  <div class="">
+    <div class="text-center mb-10">
+      <h2 class="text-4xl tracking-tight font-bold text-primary-800">
+        FASILITAS SEKOLAH
+      </h2>
     </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?planter-stand"
-        alt="Planter Stand with Pots"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
-      >
-        Planter Stand with Pots
-      </p>
+    <div class="flex flex-col md:grid md:grid-cols-5 gap-3">
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/gedung.jpg"
+          alt="Hanging Planters"
+          class="w-full"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          Gedung Milik Sendiri
+        </p>
+      </div>
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/bultang.jpg"
+          alt="Hanging Planters"
+          class="w-full"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          Lapangan Olahraga
+        </p>
+      </div>
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/bk.jpg"
+          alt="Hanging Planters"
+          class="w-full"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          BK & Pengembangan Potensi
+        </p>
+      </div>
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/kantin.jpg"
+          alt="Hanging Planters"
+          class="w-full"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          Kantin Sekolah
+        </p>
+      </div>
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/bk.jpg"
+          alt="Hanging Planters"
+          class="w-full"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          Laboratorium IPA
+        </p>
+      </div>
     </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?watering-cans"
-        alt="Watering Cans"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
-      >
-        Watering Cans
-      </p>
+    <!--  -->
+    <div class="flex flex-col md:grid md:grid-cols-5 gap-3">
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/lab2.jpg"
+          alt="Hanging Planters"
+          class="w-full"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          Laboratorium Komputer
+        </p>
+      </div>
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/uks.jpeg"
+          alt="Hanging Planters"
+          class="w-64 h-56 object-fill"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          UKS
+        </p>
+      </div>
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/mushola.jpeg"
+          alt="Hanging Planters"
+          class="w-full"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          Mushola & Aula
+        </p>
+      </div>
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/perpus.jpg"
+          alt="Hanging Planters"
+          class="w-full"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          Perpustakaan
+        </p>
+      </div>
+      <div class="relative rounded overflow-hidden">
+        <img
+          src="./assets/fasilitas/musik.jpeg"
+          alt="Hanging Planters"
+          class="w-full"
+        />
+        <p
+          class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
+        >
+          Instrumen Musik & Vokal
+        </p>
+      </div>
     </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?metal-planters"
-        alt="Metal Planters"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
-      >
-        Metal Planters
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?table-top-planters"
-        alt="Table Top Planters"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
-      >
-        Table Top Planters
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?wall-mounted-stands"
-        alt="Wall Mounted Stands"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
-      >
-        Wall Mounted Stands
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?jute-plant-pots"
-        alt="Jute Plant Pots"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
-      >
-        Jute Plant Pots
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?bird-feeders"
-        alt="Bird Feeders"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
-      >
-        Bird Feeders
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?hanging-birds"
-        alt="Hanging Birds"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover-bg-opacity-60 transition"
-      >
-        Hanging Birds
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?garden-sticks"
-        alt="Garden Sticks"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover:bg-opacity-60 transition"
-      >
-        Garden Sticks
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?garden-tray-miniatures"
-        alt="Garden Tray Miniatures"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover-bg-opacity-60 transition"
-      >
-        Garden Tray Miniatures
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?garden-tool-set"
-        alt="Garden Tool Set"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover-bg-opacity-60 transition"
-      >
-        Garden Tool Set
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?candle-stand"
-        alt="Candle Stand"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover-bg-opacity-60 transition"
-      >
-        Candle Stand
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?lanterns"
-        alt="Lanterns"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover-bg-opacity-60 transition"
-      >
-        Lanterns
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?chimes"
-        alt="Chimes"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover-bg-opacity-60 transition"
-      >
-        Chimes
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?cage"
-        alt="Cage"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover-bg-opacity-60 transition"
-      >
-        Cage
-      </p>
-    </div>
-    <div class="relative rounded overflow-hidden">
-      <img
-        src="https://source.unsplash.com/400x300/?bird-house-hanging"
-        alt="Bird House Hanging"
-        class="w-full"
-      />
-      <p
-        class="cursor-pointer absolute inset-0 bg-black bg-opacity-40 flex items-center justify-center text-2xl text-center text-white font-roboto font-medium group-hover-bg-opacity-60 transition"
-      >
-        Bird House Hanging
-      </p>
-    </div>
+    <!--  -->
   </div>
+
   <!--  -->
   <div class="p-10 max-w-screen-lg mx-auto">
     <div class="text-center mb-4">

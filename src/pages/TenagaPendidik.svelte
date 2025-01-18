@@ -42,6 +42,18 @@
           <p class="text-gray-700">Kepala SMP IT ARAFAH</p>
         </div>
 
+        <!-- Team Member 4 -->
+        <div class="bg-white rounded-lg shadow-md p-6 my-6 text-center">
+          <img
+            src="https://static.wixstatic.com/media/811433_eeda1c574431486882a660bd03350ab4~mv2.png"
+            alt="Team Member 4"
+            class="w-full rounded-full mb-4"
+            loading="lazy"
+          />
+          <h3 class="text-xl font-semibold mb-2">Nurul Istiqomah, S.Pd</h3>
+          <p class="text-gray-700">Bendahara BOS</p>
+        </div>
+
         <!--  -->
       </div>
     </div>

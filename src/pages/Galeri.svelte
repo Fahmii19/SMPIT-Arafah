@@ -24,20 +24,11 @@
               src="./assets/galeri/galeri1.jpg"
             />
             <div
-              class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
             >
-              <h2
-                class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"
-              >
-                THE SUBTITLE
-              </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                Shooting Stars
+                OSIS
               </h1>
-              <p class="leading-relaxed">
-                Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                microdosing tousled waistcoat.
-              </p>
             </div>
           </div>
         </div>
@@ -49,20 +40,11 @@
               src="./assets/galeri/galeri2.jpg"
             />
             <div
-              class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
             >
-              <h2
-                class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"
-              >
-                THE SUBTITLE
-              </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                The Catalyzer
+                OSIS
               </h1>
-              <p class="leading-relaxed">
-                Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                microdosing tousled waistcoat.
-              </p>
             </div>
           </div>
         </div>
@@ -74,20 +56,11 @@
               src="./assets/galeri/galeri3.jpg"
             />
             <div
-              class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
             >
-              <h2
-                class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"
-              >
-                THE SUBTITLE
-              </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                The 400 Blows
+                OSIS
               </h1>
-              <p class="leading-relaxed">
-                Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                microdosing tousled waistcoat.
-              </p>
             </div>
           </div>
         </div>
@@ -99,20 +72,11 @@
               src="./assets/galeri/galeri4.jpg"
             />
             <div
-              class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
             >
-              <h2
-                class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"
-              >
-                THE SUBTITLE
-              </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                Neptune
+                OUTBOUND
               </h1>
-              <p class="leading-relaxed">
-                Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                microdosing tousled waistcoat.
-              </p>
             </div>
           </div>
         </div>
@@ -124,20 +88,11 @@
               src="./assets/galeri/galeri5.jpg"
             />
             <div
-              class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
             >
-              <h2
-                class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"
-              >
-                THE SUBTITLE
-              </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                Holden Caulfield
+                TAHFIDZ
               </h1>
-              <p class="leading-relaxed">
-                Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                microdosing tousled waistcoat.
-              </p>
             </div>
           </div>
         </div>
@@ -149,20 +104,11 @@
               src="./assets/galeri/galeri6.jpg"
             />
             <div
-              class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
             >
-              <h2
-                class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"
-              >
-                THE SUBTITLE
-              </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                Alper Kamu
+                TAHFIDZ
               </h1>
-              <p class="leading-relaxed">
-                Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                microdosing tousled waistcoat.
-              </p>
             </div>
           </div>
         </div>
@@ -174,20 +120,11 @@
               src="./assets/galeri/galeri7.jpg"
             />
             <div
-              class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
             >
-              <h2
-                class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"
-              >
-                THE SUBTITLE
-              </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                Alper Kamu
+                TAHFIDZ
               </h1>
-              <p class="leading-relaxed">
-                Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                microdosing tousled waistcoat.
-              </p>
             </div>
           </div>
         </div>
@@ -199,20 +136,11 @@
               src="./assets/galeri/galeri8.jpg"
             />
             <div
-              class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
             >
-              <h2
-                class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"
-              >
-                THE SUBTITLE
-              </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                Alper Kamu
+                OUTBOUND
               </h1>
-              <p class="leading-relaxed">
-                Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                microdosing tousled waistcoat.
-              </p>
             </div>
           </div>
         </div>
@@ -224,20 +152,11 @@
               src="./assets/galeri/galeri9.jpg"
             />
             <div
-              class="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
             >
-              <h2
-                class="tracking-widest text-sm title-font font-medium text-indigo-500 mb-1"
-              >
-                THE SUBTITLE
-              </h2>
               <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                Alper Kamu
+                OUTBOUND
               </h1>
-              <p class="leading-relaxed">
-                Photo booth fam kinfolk cold-pressed sriracha leggings jianbing
-                microdosing tousled waistcoat.
-              </p>
             </div>
           </div>
         </div>

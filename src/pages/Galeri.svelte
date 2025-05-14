@@ -15,6 +15,7 @@
           english area, program tahfidz dan ICT
         </p>
       </div>
+      <!--  -->
       <div class="flex flex-wrap -m-4">
         <div class="lg:w-1/3 sm:w-1/2 p-4">
           <div class="flex relative">
@@ -24,9 +25,11 @@
               src="./assets/galeri/galeri1.jpg"
             />
             <div
-              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-opacity-0 hover:bg-opacity-20 bg-gray-100 opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
             >
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
+              <h1
+                class="text-center text-white font-bold text-lg md:text-xl drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"
+              >
                 OSIS
               </h1>
             </div>
@@ -40,9 +43,11 @@
               src="./assets/galeri/galeri2.jpg"
             />
             <div
-              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-opacity-0 hover:bg-opacity-20 bg-gray-100 opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
             >
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
+              <h1
+                class="text-center text-white font-bold text-lg md:text-xl drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"
+              >
                 OSIS
               </h1>
             </div>
@@ -56,9 +61,11 @@
               src="./assets/galeri/galeri3.jpg"
             />
             <div
-              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-opacity-0 hover:bg-opacity-20 bg-gray-100 opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
             >
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
+              <h1
+                class="text-center text-white font-bold text-lg md:text-xl drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"
+              >
                 OSIS
               </h1>
             </div>
@@ -72,9 +79,11 @@
               src="./assets/galeri/galeri4.jpg"
             />
             <div
-              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-opacity-0 hover:bg-opacity-20 bg-gray-100 opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
             >
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
+              <h1
+                class="text-center text-white font-bold text-lg md:text-xl drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"
+              >
                 OUTBOUND
               </h1>
             </div>
@@ -88,9 +97,11 @@
               src="./assets/galeri/galeri5.jpg"
             />
             <div
-              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-opacity-0 hover:bg-opacity-20 bg-gray-100 opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
             >
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
+              <h1
+                class="text-center text-white font-bold text-lg md:text-xl drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"
+              >
                 TAHFIDZ
               </h1>
             </div>
@@ -104,9 +115,11 @@
               src="./assets/galeri/galeri6.jpg"
             />
             <div
-              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-opacity-0 hover:bg-opacity-20 bg-gray-100 opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
             >
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
+              <h1
+                class="text-center text-white font-bold text-lg md:text-xl drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"
+              >
                 TAHFIDZ
               </h1>
             </div>
@@ -120,9 +133,11 @@
               src="./assets/galeri/galeri7.jpg"
             />
             <div
-              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-opacity-0 hover:bg-opacity-20 bg-gray-100 opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
             >
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
+              <h1
+                class="text-center text-white font-bold text-lg md:text-xl drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"
+              >
                 TAHFIDZ
               </h1>
             </div>
@@ -136,9 +151,11 @@
               src="./assets/galeri/galeri8.jpg"
             />
             <div
-              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-opacity-0 hover:bg-opacity-20 bg-gray-100 opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
             >
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
+              <h1
+                class="text-center text-white font-bold text-lg md:text-xl drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"
+              >
                 OUTBOUND
               </h1>
             </div>
@@ -152,15 +169,18 @@
               src="./assets/galeri/galeri9.jpg"
             />
             <div
-              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100"
+              class="px-8 py-20 relative z-10 w-full border-4 border-gray-200 bg-opacity-0 hover:bg-opacity-20 bg-gray-100 opacity-0 hover:opacity-100 transition-opacity duration-300 flex items-center justify-center"
             >
-              <h1 class="title-font text-lg font-medium text-gray-900 mb-3">
-                OUTBOUND
+              <h1
+                class="text-center text-white font-bold text-lg md:text-xl drop-shadow-[0_2px_2px_rgba(0,0,0,0.8)]"
+              >
+                OSIS
               </h1>
             </div>
           </div>
         </div>
       </div>
+      <!--  -->
     </div>
   </section>
 </div>

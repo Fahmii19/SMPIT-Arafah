@@ -386,161 +386,455 @@
   </div>
 
   <!--  -->
-  <div class="p-10 max-w-screen-lg mx-auto">
-    <div class="text-center mb-12">
-      <h2 class="text-4xl tracking-tight font-bold text-primary-800">
+  <div class="p-6 md:p-10 max-w-screen-lg mx-auto">
+    <div class="text-center mb-10 md:mb-12">
+      <h2 class="text-3xl md:text-4xl font-bold text-primary-800 mb-2">
         SERAGAM SEKOLAH
       </h2>
+      <div class="w-20 h-1 bg-primary-600 mx-auto"></div>
+      <p class="mt-4 text-gray-600 max-w-2xl mx-auto">
+        Seragam sekolah kami dirancang untuk menciptakan identitas dan
+        kebanggaan bersama
+      </p>
     </div>
-    <div class="sm:grid grid-cols-2 gap-3 my-10">
-      <div class="max-w-sm w-full lg:max-w-full lg:flex mx-auto">
-        <div
-          class="h-64 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
-        >
-          <img class="w-full h-full" src="./assets/seragam/senen.jpg" />
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      <!-- Senin -->
+      <div
+        class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow"
+      >
+        <div class="h-48 overflow-hidden">
+          <img
+            class="w-full h-full object-contain transition-transform hover:scale-105 duration-500"
+            src="./assets/seragam/senen.jpg"
+            alt="Seragam Hari Senin"
+          />
         </div>
-        <div
-          class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4"
-        >
-          <div class="">
-            <p class="text-gray-600 text-base">
-              Seragam hari Senin: Putih Biru. Pastikan tampil rapi dan siap
-              menjalani hari!
-            </p>
+        <div class="p-5">
+          <div class="flex items-center mb-2">
+            <div class="bg-blue-100 text-blue-800 p-2 rounded-lg mr-3">
+              <svg
+                class="w-5 h-5"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M5 13l4 4L19 7"
+                ></path>
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800">Hari Senin</h3>
+          </div>
+          <p class="text-gray-600">
+            Seragam Putih Biru. Pastikan tampil rapi dan siap menjalani hari!
+          </p>
+          <div class="mt-3 flex items-center text-sm text-gray-500">
+            <svg
+              class="w-4 h-4 mr-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+              ></path>
+            </svg>
+            Wajib dipakai
           </div>
         </div>
       </div>
 
-      <div class="max-w-sm w-full lg:max-w-full lg:flex mx-auto">
-        <div
-          class="h-64 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
-        >
-          <img class="w-full h-full" src="./assets/seragam/selasa.jpg" />
+      <!-- Selasa -->
+      <div
+        class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow"
+      >
+        <div class="h-48 overflow-hidden">
+          <img
+            class="w-full h-full object-contain transition-transform hover:scale-105 duration-500"
+            src="./assets/seragam/selasa.jpg"
+            alt="Seragam Hari Selasa"
+          />
         </div>
-        <div
-          class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4"
-        >
-          <div class="">
-            <p class="text-gray-600 text-base">
-              Seragam hari Selasa: PDH. Tunjukkan semangat profesionalmu!
-            </p>
+        <div class="p-5">
+          <div class="flex items-center mb-2">
+            <div class="bg-green-100 text-green-800 p-2 rounded-lg mr-3">
+              <svg
+                class="w-5 h-5"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M5 13l4 4L19 7"
+                ></path>
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800">Hari Selasa</h3>
+          </div>
+          <p class="text-gray-600">
+            Seragam PDH. Tunjukkan semangat profesionalmu!
+          </p>
+          <div class="mt-3 flex items-center text-sm text-gray-500">
+            <svg
+              class="w-4 h-4 mr-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+              ></path>
+            </svg>
+            Wajib dipakai
           </div>
         </div>
       </div>
-      <div class="max-w-sm w-full lg:max-w-full lg:flex mx-auto">
-        <div
-          class="h-64 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
-        >
-          <img class="w-full h-full" src="./assets/seragam/rabu.jpg" />
+
+      <!-- Rabu -->
+      <div
+        class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow"
+      >
+        <div class="h-48 overflow-hidden">
+          <img
+            class="w-full h-full object-contain transition-transform hover:scale-105 duration-500"
+            src="./assets/seragam/rabu.jpg"
+            alt="Seragam Hari Rabu"
+          />
         </div>
-        <div
-          class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4"
-        >
-          <div class="">
-            <p class="text-gray-600 text-base">
-              Seragam hari Rabu: Pramuka. Bersiaplah dengan semangat kepanduan!
-            </p>
+        <div class="p-5">
+          <div class="flex items-center mb-2">
+            <div class="bg-orange-100 text-orange-800 p-2 rounded-lg mr-3">
+              <svg
+                class="w-5 h-5"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M5 13l4 4L19 7"
+                ></path>
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800">Hari Rabu</h3>
+          </div>
+          <p class="text-gray-600">
+            Seragam Pramuka. Bersiaplah dengan semangat kepanduan!
+          </p>
+          <div class="mt-3 flex items-center text-sm text-gray-500">
+            <svg
+              class="w-4 h-4 mr-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+              ></path>
+            </svg>
+            Wajib dipakai
           </div>
         </div>
       </div>
-      <div class="max-w-sm w-full lg:max-w-full lg:flex mx-auto">
-        <div
-          class="h-64 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
-        >
-          <img class="w-full h-full" src="./assets/seragam/kamis.jpg" />
+
+      <!-- Kamis -->
+      <div
+        class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow"
+      >
+        <div class="h-48 overflow-hidden">
+          <img
+            class="w-full h-full object-contain transition-transform hover:scale-105 duration-500"
+            src="./assets/seragam/kamis.jpg"
+            alt="Seragam Hari Kamis"
+          />
         </div>
-        <div
-          class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4"
-        >
-          <div class="">
-            <p class="text-gray-600 text-base">
-              Seragam hari Kamis: Batik. Tampil elegan dengan ciri khas budaya!
-            </p>
+        <div class="p-5">
+          <div class="flex items-center mb-2">
+            <div class="bg-purple-100 text-purple-800 p-2 rounded-lg mr-3">
+              <svg
+                class="w-5 h-5"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M5 13l4 4L19 7"
+                ></path>
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800">Hari Kamis</h3>
+          </div>
+          <p class="text-gray-600">
+            Seragam Batik. Tampil elegan dengan ciri khas budaya!
+          </p>
+          <div class="mt-3 flex items-center text-sm text-gray-500">
+            <svg
+              class="w-4 h-4 mr-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+              ></path>
+            </svg>
+            Wajib dipakai
           </div>
         </div>
       </div>
-      <div class="max-w-sm w-full lg:max-w-full lg:flex mx-auto">
-        <div
-          class="h-64 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
-        >
-          <img class="w-full h-full" src="./assets/seragam/jumat.jpg" />
+
+      <!-- Jumat -->
+      <div
+        class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow"
+      >
+        <div class="h-48 overflow-hidden">
+          <img
+            class="w-full h-full object-contain transition-transform hover:scale-105 duration-500"
+            src="./assets/seragam/jumat.jpg"
+            alt="Seragam Hari Jumat"
+          />
         </div>
-        <div
-          class="border-r border-b border-l border-gray-400 lg:border-l-0 lg:border-t lg:border-gray-400 bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4"
-        >
-          <div class="">
-            <p class="text-gray-600 text-base">
-              Seragam hari Jumat: Muslim & Muslimah. Tunjukkan kerapian dan
-              keanggunanmu!
-            </p>
+        <div class="p-5">
+          <div class="flex items-center mb-2">
+            <div class="bg-indigo-100 text-indigo-800 p-2 rounded-lg mr-3">
+              <svg
+                class="w-5 h-5"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="2"
+                  d="M5 13l4 4L19 7"
+                ></path>
+              </svg>
+            </div>
+            <h3 class="text-xl font-bold text-gray-800">Hari Jumat</h3>
           </div>
+          <p class="text-gray-600">
+            Seragam Muslim & Muslimah. Tunjukkan kerapian dan keanggunanmu!
+          </p>
+          <div class="mt-3 flex items-center text-sm text-gray-500">
+            <svg
+              class="w-4 h-4 mr-1"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"
+              ></path>
+            </svg>
+            Wajib dipakai
+          </div>
+        </div>
+      </div>
+
+      <!-- Sabtu (optional) -->
+      <div
+        class="bg-white rounded-xl shadow-md overflow-hidden hover:shadow-lg transition-shadow border-2 border-dashed border-gray-200 flex items-center justify-center"
+      >
+        <div class="text-center p-6">
+          <div
+            class="mx-auto bg-gray-100 p-3 rounded-full w-12 h-12 flex items-center justify-center mb-3"
+          >
+            <svg
+              class="w-6 h-6 text-gray-400"
+              fill="none"
+              stroke="currentColor"
+              viewBox="0 0 24 24"
+            >
+              <path
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M12 6v6m0 0v6m0-6h6m-6 0H6"
+              ></path>
+            </svg>
+          </div>
+          <h3 class="text-lg font-medium text-gray-700">Libur Sekolah</h3>
+          <p class="text-gray-500 text-sm mt-1">Nikmati hari liburmu!</p>
         </div>
       </div>
     </div>
   </div>
   <!--  -->
-  <div class="p-10 max-w-screen-lg mx-auto">
-    <div class="text-center mb-12">
-      <h2 class="text-4xl tracking-tight font-bold text-primary-800">
+  <div class="p-6 md:p-10 max-w-screen-lg mx-auto">
+    <div class="text-center mb-10 md:mb-12">
+      <h2 class="text-3xl md:text-4xl font-bold text-primary-800 mb-2">
         PRESTASI SISWA
       </h2>
+      <div class="w-20 h-1 bg-primary-600 mx-auto"></div>
     </div>
-    <div>
-      <ul class="bg-white rounded-lg shadow divide-y divide-gray-200 w-full">
-        <li class="">
-          <div class="flex justify-between">
-            <span class="font-semibold text-lg">SAMAN / TARI TRADISIONAL</span>
+
+    <div class="bg-white rounded-xl shadow-lg overflow-hidden">
+      <ul class="divide-y divide-gray-200">
+        <!-- SAMAN/TARI TRADISIONAL -->
+        <li class="p-6 hover:bg-gray-50 transition-colors">
+          <div class="flex items-center mb-3">
+            <div class="bg-primary-100 p-2 rounded-lg mr-4">
+              <img
+                width="30"
+                height="30"
+                src="./assets/cup.png"
+                style="color:transparent"
+              />
+            </div>
+            <h3 class="text-xl font-bold text-gray-800">
+              SAMAN / TARI TRADISIONAL
+            </h3>
           </div>
-          <p class="text-gray-700">
-            Juara 1 Tari Saman Soul X Trance 7 se- JABODETABEK
-          </p>
-          <p class="text-gray-700">
-            Juara 1 Tari Saman Soul of Nation SMP se- JABODETABEK
-          </p>
-          <p class="text-gray-700">
-            Juara II Tari Tradisional PDCBI Cup I se- KOTA DEPOK
-          </p>
-          <p class="text-gray-700">
-            Juara III Tari Saman Soul of Nation SMP se-JABODETABEK
-          </p>
+          <ul class="space-y-2 ml-16">
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara 1 Tari Saman Soul X Trance 7 se-JABODETABEK</span
+              >
+            </li>
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara 1 Tari Saman Soul of Nation SMP se-JABODETABEK</span
+              >
+            </li>
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara II Tari Tradisional PDCBI Cup I se-KOTA DEPOK</span
+              >
+            </li>
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara III Tari Saman Soul of Nation SMP se-JABODETABEK</span
+              >
+            </li>
+          </ul>
         </li>
-        <li class="my-4">
-          <div class="flex justify-between mt-5">
-            <span class="font-semibold text-lg">FUTSAL</span>
+
+        <!-- FUTSAL -->
+        <li class="p-6 hover:bg-gray-50 transition-colors">
+          <div class="flex items-center mb-3">
+            <div class="bg-primary-100 p-2 rounded-lg mr-4">
+              <img
+                width="30"
+                height="30"
+                src="./assets/cup.png"
+                style="color:transparent"
+              />
+            </div>
+            <h3 class="text-xl font-bold text-gray-800">FUTSAL</h3>
           </div>
-          <p class="text-gray-700">
-            Juara II Metland Cup U-13 se-Kabupaten BOGOR
-          </p>
+          <ul class="space-y-2 ml-16">
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara II Metland Cup U-13 se-Kabupaten BOGOR</span
+              >
+            </li>
+          </ul>
         </li>
-        <li class="">
-          <div class="flex justify-between mt-5">
-            <span class="font-semibold text-lg">KARATE</span>
+
+        <!-- KARATE -->
+        <li class="p-6 hover:bg-gray-50 transition-colors">
+          <div class="flex items-center mb-3">
+            <div class="bg-primary-100 p-2 rounded-lg mr-4">
+              <img
+                width="30"
+                height="30"
+                src="./assets/cup.png"
+                style="color:transparent"
+              />
+            </div>
+            <h3 class="text-xl font-bold text-gray-800">KARATE</h3>
           </div>
-          <p class="text-gray-700">
-            Juara II Kejuaraan Karate wakodai Cup VII se-Kabupaten BOGOR
-          </p>
-          <p class="text-gray-700">
-            Juara II Kata Putih - Kuning Pemula Putri Open Tournament se-JAWA
-            BARAT dan NASIONAL
-          </p>
-          <p class="text-gray-700">
-            Juara III Karate Open Tournament se-JAWA BARAT dan NASIONAL
-          </p>
-          <p class="text-gray-700">
-            Juara I Karate Open Indonesia Youth and Sport Piala KEMENPORA 2016
-          </p>
+          <ul class="space-y-2 ml-16">
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara II Kejuaraan Karate wakodai Cup VII se-Kabupaten BOGOR</span
+              >
+            </li>
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara II Kata Putih - Kuning Pemula Putri Open Tournament
+                se-JAWA BARAT dan NASIONAL</span
+              >
+            </li>
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara III Karate Open Tournament se-JAWA BARAT dan NASIONAL</span
+              >
+            </li>
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara I Karate Open Indonesia Youth and Sport Piala KEMENPORA
+                2016</span
+              >
+            </li>
+          </ul>
         </li>
-        <li class="">
-          <div class="flex justify-between mt-5">
-            <span class="font-semibold text-lg">PANAHAN</span>
+
+        <!-- PANAHAN -->
+        <li class="p-6 hover:bg-gray-50 transition-colors">
+          <div class="flex items-center mb-3">
+            <div class="bg-primary-100 p-2 rounded-lg mr-4">
+              <img
+                width="30"
+                height="30"
+                src="./assets/cup.png"
+                style="color:transparent"
+              />
+            </div>
+            <h3 class="text-xl font-bold text-gray-800">PANAHAN</h3>
           </div>
-          <p class="text-gray-700">
-            Juara III Kategori Prestasi SMP/SMA Putri Istora Senaan JAKARTA
-          </p>
-          <p class="text-gray-700">
-            Juara III Junior Sirkuit Olahraga Pelajar Tingkat Propinsi DKI
-            JAKARTA
-          </p>
+          <ul class="space-y-2 ml-16">
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara III Kategori Prestasi SMP/SMA Putri Istora Senaan JAKARTA</span
+              >
+            </li>
+            <li class="flex items-start">
+              <span class="text-primary-600 mr-2">•</span>
+              <span class="text-gray-700"
+                >Juara III Junior Sirkuit Olahraga Pelajar Tingkat Propinsi DKI
+                JAKARTA</span
+              >
+            </li>
+          </ul>
         </li>
       </ul>
     </div>

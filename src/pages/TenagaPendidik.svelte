@@ -16,7 +16,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_3e589b5d350c4c839afa42e54cbdded3~mv2.png"
+                  src="./assets/pendidik/kokom.png"
                   alt="Dra. H.Kokom Komariah"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -43,7 +43,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_8fd6bb9876a74d5998c564e56c233338~mv2.png"
+                  src="./assets/pendidik/pepen.png"
                   alt="Drs. H.Pepen Supena, M.M"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -72,7 +72,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_8264076fc25d43f39d1866f9b8959dca~mv2.png"
+                  src="./assets/pendidik/lidiya.png"
                   alt="Lidiya Dewi Kencana, S.Pd"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -99,7 +99,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_eeda1c574431486882a660bd03350ab4~mv2.png"
+                  src="./assets/pendidik/nurul.png"
                   alt="Nurul Istiqomah, S.Pd"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -126,7 +126,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_408ec15da3904f48bfe0d44c6c016d58~mv2.png"
+                  src="./assets/pendidik/dede.png"
                   alt="Dede Hidayat"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -155,7 +155,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_28fc4aeb17754d6bb86897ed753ec880~mv2.png"
+                  src="./assets/pendidik/diah.png"
                   alt="Ayu Diah Aryani S, S.SI"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -213,7 +213,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_c9f9b83f80b64b6484db59d2b73335cc~mv2.png"
+                  src="./assets/pendidik/aninda.png"
                   alt="Anida Nur R, S.Mat"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -240,7 +240,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_9968019e3b1a43468bce9b3abd3ffb9c~mv2.png"
+                  src="./assets/pendidik/andre.png"
                   alt="Andre Septiyanta"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -300,7 +300,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_f1c8b343bfb04999a768e379523cd3ce~mv2.png"
+                  src="./assets/pendidik/andi.png"
                   alt="Andi Ardiansyah, S.Pd.I"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -360,7 +360,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_412f8266ed974c7bb33394cc74d667a4~mv2.png"
+                  src="./assets/pendidik/nureani.png"
                   alt="Muhamad Nuraeni, S.Pd"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -389,7 +389,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_67081e41f4ae4b048a9367f0305f808f~mv2.png"
+                  src="./assets/pendidik/melisa.png"
                   alt="Melisa Afriyanti, S.Kom"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -416,7 +416,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_6e33026a3abb468f9da67c23f161e1f9~mv2.png"
+                  src="./assets/pendidik/nuraini.png"
                   alt="Nuraini, S.Pd"
                   class="w-full h-full object-cover"
                   loading="lazy"
@@ -443,7 +443,7 @@
                 class="relative mx-auto w-40 h-40 rounded-full overflow-hidden border-4 border-blue-100 group-hover:border-blue-300 transition-all duration-300"
               >
                 <img
-                  src="https://static.wixstatic.com/media/811433_c85f3b61776f491aac9a75c28d17dfd0~mv2.png"
+                  src="./assets/pendidik/ahmad.png"
                   alt="Ahmad Daung"
                   class="w-full h-full object-cover"
                   loading="lazy"

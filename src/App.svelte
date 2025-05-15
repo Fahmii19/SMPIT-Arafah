@@ -1,9 +1,8 @@
 <script>
   import { Router, Route } from "svelte-routing";
-  import { activeRoute } from "./routes/store"; // Import store to manage active route
-  import { onMount } from "svelte";
+  import { onMount, onDestroy } from "svelte";
+  import { activeRoute } from "./routes/store";
 
-  // Import your page components
   import Home from "./pages/Home.svelte";
   import Galeri from "./pages/Galeri.svelte";
   import Informasi from "./pages/Informasi.svelte";
@@ -13,14 +12,22 @@
   import Header from "./components/Header.svelte";
   import Footer from "./components/Footer.svelte";
 
-  // Listen for page navigation events to update the active route
+  let unlisten;
+
   onMount(() => {
-    activeRoute.set(window.location.pathname); // Set initial active route
+    // Set awal saat mount
+    activeRoute.set(window.location.pathname);
+
+    // Update saat popstate (navigasi back/forward)
+    const updateRoute = () => activeRoute.set(window.location.pathname);
+    window.addEventListener("popstate", updateRoute);
+
+    // Cleanup listener
+    unlisten = () => window.removeEventListener("popstate", updateRoute);
   });
 
-  // Listen for route changes to update active route dynamically
-  window.addEventListener("popstate", () => {
-    activeRoute.set(window.location.pathname);
+  onDestroy(() => {
+    if (unlisten) unlisten();
   });
 </script>
 
@@ -38,5 +45,5 @@
 </main>
 
 <style>
-  /* Add custom styles if needed */
+  /* Tambah style global jika perlu */
 </style>

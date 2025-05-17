@@ -118,7 +118,7 @@
           </div>
 
           <!-- Team Member 6 -->
-          <div
+          <!-- <div
             class="group bg-white rounded-xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-xl hover:-translate-y-2"
           >
             <div class="p-6">
@@ -459,6 +459,7 @@
               </div>
             </div>
           </div>
+          -->
 
           <!--  -->
         </div>
